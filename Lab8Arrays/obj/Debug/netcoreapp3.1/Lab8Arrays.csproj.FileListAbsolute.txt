@@ -1,0 +1,11 @@
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.exe
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.deps.json
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.runtimeconfig.json
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.runtimeconfig.dev.json
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.dll
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\bin\Debug\netcoreapp3.1\Lab8Arrays.pdb
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.csprojAssemblyReference.cache
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.AssemblyInfoInputs.cache
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.AssemblyInfo.cs
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.dll
+C:\Users\cdzie\source\repos\Lab8Arrays\Lab8Arrays\obj\Debug\netcoreapp3.1\Lab8Arrays.pdb
